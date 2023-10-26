@@ -4,7 +4,7 @@ Using Selenium tool for testing my ku websit.
 ## Getting Start
 1. Clone the repository.
 ```
-git clone https://github.com/kuisskui/my_ku_testing.git
+https://github.com/Phukit-Time/Software-Testing.git
 ```
 2. Change directory to my_ku_testing.
 ```
