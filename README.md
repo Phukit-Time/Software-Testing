@@ -1,4 +1,4 @@
-# my_ku_testing
+# Software-testing
 Using Selenium tool for testing my ku websit.
 
 ## Getting Start
